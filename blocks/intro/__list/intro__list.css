@@ -1,0 +1,9 @@
+.intro__list {
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: bold;
+    list-style-type: none;
+    margin-block-start: unset;
+    margin-block-end: unset;
+    padding-inline-start: 0;
+}
