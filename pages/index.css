@@ -1,6 +1,6 @@
 @import "../vendor/normalize.css";
 @import "../vendor/font/Inter-web/inter.css";
-@import "../blocks/root/root.css";
+@import "../blocks/page/page.css";
 @import "../blocks/header/header.css";
 @import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__lang-links/header__lang-links.css";
@@ -30,5 +30,6 @@
 @import "../blocks/cover/__title/cover__title.css";
 @import "../blocks/cover/__subtitle/cover__subtitle.css";
 @import "../blocks/footer/footer.css";
+@import "../blocks/footer/__navigation/footer__navigation.css";
 @import "../blocks/footer/__link/footer__link.css";
 @import "../blocks/footer/__copyright/footer__copyright.css";

@@ -2,20 +2,12 @@
     padding: 64px 16px 24px;
 }
 
-.footer nav {
-    display: grid;
-}
-
 @media screen and (min-width: 768px) {
     .footer {
         display: flex;
         min-width: 720px;
         padding: 88px 24px 24px;
         justify-content: space-between;
-    }
-
-    .footer nav {
-        display: inline;
     }
 }
 
