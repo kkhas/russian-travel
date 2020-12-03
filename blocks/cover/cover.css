@@ -3,22 +3,17 @@
     background-size: cover;
     background-position: center;
     text-align: center;
-    box-sizing: border-box;
     height: 62.5vw;
     position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     max-width: 1184px;
     max-height: 740px;
     margin: 66px auto 0;
-}
-
-.cover a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-decoration: none;
     color: #FFFFFF;
-    display: block;
-    height: 100%;
+    cursor:pointer;
 }
 
 @media screen and (min-width: 768px) {

@@ -15,13 +15,13 @@
 @media screen and (min-width: 1024px) {
     .place {
         grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
-        column-gap: 32px; 
+        column-gap: 32px;
         padding-top: 80px;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .place {
-        column-gap: 40px; 
+        column-gap: 40px;
     }
 }
