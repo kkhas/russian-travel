@@ -4,11 +4,6 @@
     color: #FFFFFF;
     text-decoration: none;
     font-weight: 400;
-    padding-bottom: 32px;
-}
-
-.footer__link:last-of-type {
-    padding-bottom: 45px;
 }
 
 .footer__link:hover {
@@ -17,7 +12,6 @@
 
 @media screen and (min-width: 768px) {
     .footer__link {
-        padding-bottom: 0;
         padding-right: 20px;
         font-size: 16px;
         line-height: 18px;

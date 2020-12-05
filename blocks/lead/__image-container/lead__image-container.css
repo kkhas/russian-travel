@@ -1,0 +1,17 @@
+.lead__image-container {
+    margin: 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .lead__image-container {
+        width: 928px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image-container {
+        width: 984px;
+        max-height: 62.5vw;
+    }
+}
