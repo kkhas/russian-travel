@@ -19,9 +19,3 @@
         padding-top: 28px;
     }
 }
-
-@media screen and (min-width: 1024px) {
-    .page {
-        padding-top: 28px;
-    }
-}

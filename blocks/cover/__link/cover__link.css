@@ -5,6 +5,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    min-height: 62.5vw;
     position: relative;
 }
